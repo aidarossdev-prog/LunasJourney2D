@@ -1,0 +1,4368 @@
+fileFormatVersion: 2
+guid: a69f3177f0bf5bb4e88e807cbfee8115
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9062645732463532917
+    second: terreno_0
+  - first:
+      213: -795833419704630021
+    second: terreno_1
+  - first:
+      213: -5641132315740603062
+    second: terreno_2
+  - first:
+      213: -505394841174732390
+    second: terreno_3
+  - first:
+      213: 3622257383165668746
+    second: terreno_4
+  - first:
+      213: -1199875311260085125
+    second: terreno_5
+  - first:
+      213: 1524270888787999010
+    second: terreno_6
+  - first:
+      213: -5103646078994519699
+    second: terreno_7
+  - first:
+      213: -203594573808071180
+    second: terreno_8
+  - first:
+      213: -6939575462653561557
+    second: terreno_9
+  - first:
+      213: -2858950906429418449
+    second: terreno_10
+  - first:
+      213: -8603267919500695643
+    second: terreno_11
+  - first:
+      213: 6960623219756657929
+    second: terreno_12
+  - first:
+      213: -6139679954858310898
+    second: terreno_13
+  - first:
+      213: 2347799630693760948
+    second: terreno_14
+  - first:
+      213: 8866564762565032593
+    second: terreno_15
+  - first:
+      213: -3727713518267693519
+    second: terreno_16
+  - first:
+      213: 7485807192008429217
+    second: terreno_17
+  - first:
+      213: -1360096175782842100
+    second: terreno_18
+  - first:
+      213: 6635489346243854667
+    second: terreno_19
+  - first:
+      213: -5310235513581125779
+    second: terreno_20
+  - first:
+      213: -6123916608396097939
+    second: terreno_21
+  - first:
+      213: 712181260705077561
+    second: terreno_22
+  - first:
+      213: -5984701004153107634
+    second: terreno_23
+  - first:
+      213: -892119920783742747
+    second: terreno_24
+  - first:
+      213: 535233694365024392
+    second: terreno_25
+  - first:
+      213: -5924195367746481229
+    second: terreno_26
+  - first:
+      213: 6149676077266916132
+    second: terreno_27
+  - first:
+      213: -6543089857313617061
+    second: terreno_28
+  - first:
+      213: -8399420413802695653
+    second: terreno_29
+  - first:
+      213: -7187580243093013832
+    second: terreno_30
+  - first:
+      213: -3552770891252557743
+    second: terreno_31
+  - first:
+      213: -6164968722362631574
+    second: terreno_32
+  - first:
+      213: 2457894922427452683
+    second: terreno_33
+  - first:
+      213: -1168967863811462718
+    second: terreno_34
+  - first:
+      213: -5136174269887975255
+    second: terreno_35
+  - first:
+      213: 6114264597637884332
+    second: terreno_36
+  - first:
+      213: 6429385269892450195
+    second: terreno_37
+  - first:
+      213: 8701585411503196493
+    second: terreno_38
+  - first:
+      213: 8508493443460795723
+    second: terreno_39
+  - first:
+      213: -7735082265264291202
+    second: terreno_40
+  - first:
+      213: -1062628326675216004
+    second: terreno_41
+  - first:
+      213: -6732461887589576164
+    second: terreno_42
+  - first:
+      213: 4793838159411038429
+    second: terreno_43
+  - first:
+      213: -3806405359757617536
+    second: terreno_44
+  - first:
+      213: 9062741170349554168
+    second: terreno_45
+  - first:
+      213: -623974990206075435
+    second: terreno_46
+  - first:
+      213: 1685226905396719788
+    second: terreno_47
+  - first:
+      213: -9119559644369912161
+    second: terreno_48
+  - first:
+      213: 8150408065402960626
+    second: terreno_49
+  - first:
+      213: 4129548708868287685
+    second: terreno_50
+  - first:
+      213: -8247278452606417920
+    second: terreno_51
+  - first:
+      213: -4426036283864479144
+    second: terreno_52
+  - first:
+      213: -7245806605350705381
+    second: terreno_53
+  - first:
+      213: -690627126320802342
+    second: terreno_54
+  - first:
+      213: 6458755613878773786
+    second: terreno_55
+  - first:
+      213: 3022636763154811409
+    second: terreno_56
+  - first:
+      213: 2612770103118712209
+    second: terreno_57
+  - first:
+      213: 8760185991753674914
+    second: terreno_58
+  - first:
+      213: 3033111221840894361
+    second: terreno_59
+  - first:
+      213: 6465749891528264117
+    second: terreno_60
+  - first:
+      213: -4244237299865358077
+    second: terreno_61
+  - first:
+      213: 6451423090721923141
+    second: terreno_62
+  - first:
+      213: 3992041462058437450
+    second: terreno_63
+  - first:
+      213: -3247502196648098468
+    second: terreno_64
+  - first:
+      213: -2014263200406291382
+    second: terreno_65
+  - first:
+      213: 8946747209436038973
+    second: terreno_66
+  - first:
+      213: 6827105928480030959
+    second: terreno_67
+  - first:
+      213: -9022393551652008182
+    second: terreno_68
+  - first:
+      213: 6551033397654019690
+    second: terreno_69
+  - first:
+      213: -6414318630700319792
+    second: terreno_70
+  - first:
+      213: -3901811065819817711
+    second: terreno_71
+  - first:
+      213: 8571133428455022075
+    second: terreno_72
+  - first:
+      213: 6808759624302384584
+    second: terreno_73
+  - first:
+      213: -976901531800337785
+    second: terreno_74
+  - first:
+      213: -1717504277287017006
+    second: terreno_75
+  - first:
+      213: 1020221893055119336
+    second: terreno_76
+  - first:
+      213: -44115140141491480
+    second: terreno_77
+  - first:
+      213: 9116452930653685441
+    second: terreno_78
+  - first:
+      213: 2944911909031876718
+    second: terreno_79
+  - first:
+      213: 8262780858828376610
+    second: terreno_80
+  - first:
+      213: -4310228303007909413
+    second: terreno_81
+  - first:
+      213: 6390885011735656764
+    second: terreno_82
+  - first:
+      213: 4607505914695110299
+    second: terreno_83
+  - first:
+      213: 6399957205388256643
+    second: terreno_84
+  - first:
+      213: 1813581698364533472
+    second: terreno_85
+  - first:
+      213: -1264563214401426368
+    second: terreno_86
+  - first:
+      213: -812584056280116653
+    second: terreno_87
+  - first:
+      213: -8425405230069248687
+    second: terreno_88
+  - first:
+      213: -350192456475681814
+    second: terreno_89
+  - first:
+      213: -731870260952294405
+    second: terreno_90
+  - first:
+      213: -1180353239930186947
+    second: terreno_91
+  - first:
+      213: 6711306237661669711
+    second: terreno_92
+  - first:
+      213: 8192411941480861406
+    second: terreno_93
+  - first:
+      213: 4921372231677559026
+    second: terreno_94
+  - first:
+      213: 4137419774372936399
+    second: terreno_95
+  - first:
+      213: -3505630636501920105
+    second: terreno_96
+  - first:
+      213: 6863693012269182482
+    second: terreno_97
+  - first:
+      213: -8681051890678427992
+    second: terreno_98
+  - first:
+      213: 697802289176846665
+    second: terreno_99
+  - first:
+      213: 8074799364763277661
+    second: terreno_100
+  - first:
+      213: 6948582723204661528
+    second: terreno_101
+  - first:
+      213: -7518018785148665886
+    second: terreno_102
+  - first:
+      213: 1596054925441345735
+    second: terreno_103
+  - first:
+      213: 3954943494704694024
+    second: terreno_104
+  - first:
+      213: 6625157442485142184
+    second: terreno_105
+  - first:
+      213: -2019125599853434549
+    second: terreno_106
+  - first:
+      213: 7752607823248576910
+    second: terreno_107
+  - first:
+      213: 8700345843065165802
+    second: terreno_108
+  - first:
+      213: -4479520343465567456
+    second: terreno_109
+  - first:
+      213: -5366278901657972422
+    second: terreno_110
+  - first:
+      213: -8975996885423491465
+    second: terreno_111
+  - first:
+      213: -2431683186186961528
+    second: terreno_112
+  - first:
+      213: -4729970219957880113
+    second: terreno_113
+  - first:
+      213: -4253398891126211258
+    second: terreno_114
+  - first:
+      213: 4253447028893561785
+    second: terreno_115
+  - first:
+      213: -3092581153615439881
+    second: terreno_116
+  - first:
+      213: 5658708387896207249
+    second: terreno_117
+  - first:
+      213: 4399865823858749324
+    second: terreno_118
+  - first:
+      213: -20254349231004404
+    second: terreno_119
+  - first:
+      213: -9031786798535439512
+    second: terreno_120
+  - first:
+      213: -8692550894808455047
+    second: terreno_121
+  - first:
+      213: -5697422601209084216
+    second: terreno_122
+  - first:
+      213: 201075981009585411
+    second: terreno_123
+  - first:
+      213: -3598375521672377438
+    second: terreno_124
+  - first:
+      213: 8427670064491037541
+    second: terreno_125
+  - first:
+      213: 7020704252142802663
+    second: terreno_126
+  - first:
+      213: 6811200762467250424
+    second: terreno_127
+  - first:
+      213: -5282601991876462082
+    second: terreno_128
+  - first:
+      213: 1891889767151804825
+    second: terreno_129
+  - first:
+      213: -288797101235589858
+    second: terreno_130
+  - first:
+      213: 1049157526153380471
+    second: terreno_131
+  - first:
+      213: 753224824904629816
+    second: terreno_132
+  - first:
+      213: 3176340330217509572
+    second: terreno_133
+  - first:
+      213: 6613250926163633414
+    second: terreno_134
+  - first:
+      213: -1566109936602585302
+    second: terreno_135
+  - first:
+      213: 1299909263932976764
+    second: terreno_136
+  - first:
+      213: -2418440130748099790
+    second: terreno_137
+  - first:
+      213: 3552927856263434814
+    second: terreno_138
+  - first:
+      213: 9142553378725939780
+    second: terreno_139
+  - first:
+      213: 2949008387504244333
+    second: terreno_140
+  - first:
+      213: 2476774376148242688
+    second: terreno_141
+  - first:
+      213: -4228152508703971773
+    second: terreno_142
+  - first:
+      213: -459235677282599702
+    second: terreno_143
+  - first:
+      213: -1566691789054824726
+    second: terreno_144
+  - first:
+      213: 7054727309140219394
+    second: terreno_145
+  - first:
+      213: 7700386367200388690
+    second: terreno_146
+  - first:
+      213: -2169431763795410836
+    second: terreno_147
+  - first:
+      213: -1633639932530124130
+    second: terreno_148
+  - first:
+      213: 3465648198565127011
+    second: terreno_149
+  - first:
+      213: -6739538557723761055
+    second: terreno_150
+  - first:
+      213: 5522105025703906290
+    second: terreno_151
+  - first:
+      213: -3789795610322338784
+    second: terreno_152
+  - first:
+      213: 9108421233406266148
+    second: terreno_153
+  - first:
+      213: 4492687883730113935
+    second: terreno_154
+  - first:
+      213: 1067513530382209389
+    second: terreno_155
+  - first:
+      213: 2011247472564437097
+    second: terreno_156
+  - first:
+      213: 3454231342212470910
+    second: terreno_157
+  - first:
+      213: 7809351978367602611
+    second: terreno_158
+  - first:
+      213: -3506794052669537439
+    second: terreno_159
+  - first:
+      213: 3630216745819934044
+    second: terreno_160
+  - first:
+      213: 5486983710126171306
+    second: terreno_161
+  - first:
+      213: -7192298269324189060
+    second: terreno_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terreno_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842d47e8b30b3280800000000000000
+      internalID: -9062645732463532917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 683
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40f16a8b1a4f4f0800000000000000
+      internalID: -795833419704630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 701
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dfd4dfb0ca6b1b0800000000000000
+      internalID: -5641132315740603062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 690
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a911774d11a7cf8f0800000000000000
+      internalID: -505394841174732390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 699
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d20a006e7d44230800000000000000
+      internalID: 3622257383165668746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 685
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d499f2cf295fe0800000000000000
+      internalID: -1199875311260085125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 677
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297da32c4c472510800000000000000
+      internalID: 1524270888787999010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 667
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6967327ee43c29b0800000000000000
+      internalID: -5103646078994519699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd09f550dfac2df0800000000000000
+      internalID: -203594573808071180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 651
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25748852eca1bf90800000000000000
+      internalID: -6939575462653561557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_10
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 640
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245ef74c47f258d0800000000000000
+      internalID: -2858950906429418449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_11
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a5a6c86d0b9880800000000000000
+      internalID: -8603267919500695643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_12
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d6eec70f9199060800000000000000
+      internalID: 6960623219756657929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0385184c997bcaa0800000000000000
+      internalID: -6139679954858310898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_14
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 632
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf7b4f235f059020800000000000000
+      internalID: 2347799630693760948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_15
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 630
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3faaacad5c0b70800000000000000
+      internalID: 8866564762565032593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_16
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368b3f2e40844cc0800000000000000
+      internalID: -3727713518267693519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_17
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 612
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae0ab8cafde2e760800000000000000
+      internalID: 7485807192008429217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_18
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b816fbb7ff1de0800000000000000
+      internalID: -1360096175782842100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 608
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4101c1776ef51c50800000000000000
+      internalID: 6635489346243854667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f355b6fe04e46b0800000000000000
+      internalID: -5310235513581125779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 593
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d668f626a4a730ba0800000000000000
+      internalID: -6123916608396097939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 602
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391404551d22e900800000000000000
+      internalID: 712181260705077561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_23
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 595
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc780252212fca0800000000000000
+      internalID: -5984701004153107634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_24
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 595
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a2a0a8ad8e93f0800000000000000
+      internalID: -892119920783742747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_25
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 596
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880827095388d6700800000000000000
+      internalID: 535233694365024392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 586
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3d47563b709cda0800000000000000
+      internalID: -5924195367746481229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 590
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42356355fc9085550800000000000000
+      internalID: 6149676077266916132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_28
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4c5901764235a0800000000000000
+      internalID: -6543089857313617061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14302cb2a34f6b80800000000000000
+      internalID: -8399420413802695653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 93
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba33dfa9d5904c90800000000000000
+      internalID: -7187580243093013832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 74
+        width: 133
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1581b82a2b502bec0800000000000000
+      internalID: -3552770891252557743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 110
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7e244c91a17aa0800000000000000
+      internalID: -6164968722362631574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_33
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 75
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d4682d8623c1220800000000000000
+      internalID: 2457894922427452683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 91
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ababdbedf6cfe0800000000000000
+      internalID: -1168967863811462718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 73
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a073d2d6b4a8b8b0800000000000000
+      internalID: -5136174269887975255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_36
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 83
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9e3fcb14b3ad450800000000000000
+      internalID: 6114264597637884332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_37
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978110b6d3c93950800000000000000
+      internalID: 6429385269892450195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_38
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498e5b24dd32c870800000000000000
+      internalID: 8701585411503196493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 77
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8837f4bd341670800000000000000
+      internalID: 8508493443460795723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_40
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 110
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e728f7679a777a490800000000000000
+      internalID: -7735082265264291202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_41
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 110
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79814cba29c041f0800000000000000
+      internalID: -1062628326675216004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_42
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 79
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c121e56559d7192a0800000000000000
+      internalID: -6732461887589576164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_43
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 98
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8486a3862278240800000000000000
+      internalID: 4793838159411038429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_44
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 91
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08611841e7eec2bc0800000000000000
+      internalID: -3806405359757617536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_45
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93ef5f31355cd70800000000000000
+      internalID: 9062741170349554168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_46
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 81
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf9086d023757f0800000000000000
+      internalID: -623974990206075435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 79
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03a1611f0236710800000000000000
+      internalID: 1685226905396719788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_48
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef75922d0d07180800000000000000
+      internalID: -9119559644369912161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 59
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa72d8e3f01c1170800000000000000
+      internalID: 8150408065402960626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 99
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc64c2ebaa1f4930800000000000000
+      internalID: 4129548708868287685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00449ac71f7cb8d80800000000000000
+      internalID: -8247278452606417920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8441337f8392c0800000000000000
+      internalID: -4426036283864479144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 63
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1764e84849b17b90800000000000000
+      internalID: -7245806605350705381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_54
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad55667a9466a66f0800000000000000
+      internalID: -690627126320802342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18ed48c20c12a950800000000000000
+      internalID: 6458755613878773786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_56
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 79
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a01e81f1092f920800000000000000
+      internalID: 3022636763154811409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_57
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 98
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc624d09c624420800000000000000
+      internalID: 2612770103118712209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_58
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 83
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b4dcfebe629970800000000000000
+      internalID: 8760185991753674914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_59
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d31e0696c71a20800000000000000
+      internalID: 3033111221840894361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_60
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 91
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b90013f445fab950800000000000000
+      internalID: 6465749891528264117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_61
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 77
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ff07a9a07915c0800000000000000
+      internalID: -4244237299865358077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_62
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 47
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ab32be1f088950800000000000000
+      internalID: 6451423090721923141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_63
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 95
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bcf9a1f84966730800000000000000
+      internalID: 3992041462058437450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_64
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 65
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554d7945fd8ee2d0800000000000000
+      internalID: -3247502196648098468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_65
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 95
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c34af8a46eb04e0800000000000000
+      internalID: -2014263200406291382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_66
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 95
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3707a16f2b392c70800000000000000
+      internalID: 8946747209436038973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_67
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 57
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0040f9ba0cebe50800000000000000
+      internalID: 6827105928480030959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_68
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc1021ed40ac280800000000000000
+      internalID: -9022393551652008182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_69
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 91
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e53e29a22f9ea50800000000000000
+      internalID: 6551033397654019690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_70
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbffec9033cbf6a0800000000000000
+      internalID: -6414318630700319792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_71
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 81
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191f11228bf9d9c0800000000000000
+      internalID: -3901811065819817711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_72
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 96
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd998df078c2f670800000000000000
+      internalID: 8571133428455022075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_73
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5d09fcdc29d7e50800000000000000
+      internalID: 6808759624302384584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_74
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 77
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78281809b395172f0800000000000000
+      internalID: -976901531800337785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_75
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 59
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e714a5f23a28e0800000000000000
+      internalID: -1717504277287017006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_76
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef70a7086e882e00800000000000000
+      internalID: 1020221893055119336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_77
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea56a68385436ff0800000000000000
+      internalID: -44115140141491480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_78
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 65
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c68e2fa3a5248e70800000000000000
+      internalID: 9116452930653685441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_79
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 77
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6899a847cd6ed820800000000000000
+      internalID: 2944911909031876718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_80
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 77
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22acc5bb96b4ba270800000000000000
+      internalID: 8262780858828376610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_81
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 91
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f06ae13efe24c0800000000000000
+      internalID: -4310228303007909413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_82
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393fdcce0cf0b850800000000000000
+      internalID: 6390885011735656764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_83
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 73
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec9e1c73621ff30800000000000000
+      internalID: 4607505914695110299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_84
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3856edc7b2731d850800000000000000
+      internalID: 6399957205388256643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_85
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 75
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaea2622f22b2910800000000000000
+      internalID: 1813581698364533472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_86
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 65
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ca399d47e537ee0800000000000000
+      internalID: -1264563214401426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_87
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 75
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35217472b1f19b4f0800000000000000
+      internalID: -812584056280116653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_88
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 90
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d010d3592f21b80800000000000000
+      internalID: -8425405230069248687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_89
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebdeb4f0ddd32bf0800000000000000
+      internalID: -350192456475681814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 45
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb144210efd7d5f0800000000000000
+      internalID: -731870260952294405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 75
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33da786bfa8e9fe0800000000000000
+      internalID: -1180353239930186947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_92
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 61
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49efa21779532d50800000000000000
+      internalID: 6711306237661669711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_93
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede82a9614b41b170800000000000000
+      internalID: 8192411941480861406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_94
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0cc9c58f93c4440800000000000000
+      internalID: 4921372231677559026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_95
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 49
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcafc222d511b6930800000000000000
+      internalID: 4137419774372936399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_96
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796939d728f795fc0800000000000000
+      internalID: -3505630636501920105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 77
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea2a3ed6cb04f50800000000000000
+      internalID: 6863693012269182482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_98
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 49
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0163bc45b68780800000000000000
+      internalID: -8681051890678427992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_99
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94127d12c771fa900800000000000000
+      internalID: 697802289176846665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_100
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 77
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d3497d337f0070800000000000000
+      internalID: 8074799364763277661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_101
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 67
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811c70deb235e6060800000000000000
+      internalID: 6948582723204661528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_102
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 63
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efff704fb1aaa790800000000000000
+      internalID: -7518018785148665886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_103
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 35
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a1f89f73562610800000000000000
+      internalID: 1596054925441345735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_104
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 79
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8038d9c7728c2e630800000000000000
+      internalID: 3954943494704694024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_105
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2cc54a79941fb50800000000000000
+      internalID: 6625157442485142184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_106
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a6d7f6ff9af3e0800000000000000
+      internalID: -2019125599853434549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_107
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 55
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8155ab7dbbc69b60800000000000000
+      internalID: 7752607823248576910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_108
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 57
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae712f6a276ddb870800000000000000
+      internalID: 8700345843065165802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b599b2bfb85d1c0800000000000000
+      internalID: -4479520343465567456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_110
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 65
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d00d45c52785b0800000000000000
+      internalID: -5366278901657972422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_111
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 47
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f15bb36ade6380800000000000000
+      internalID: -8975996885423491465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_112
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 49
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d3909960de04ed0800000000000000
+      internalID: -2431683186186961528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_113
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcafb393525cb5eb0800000000000000
+      internalID: -4729970219957880113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_114
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db1667e34e8f4c0800000000000000
+      internalID: -4253398891126211258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_115
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 55
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3342c7987470b30800000000000000
+      internalID: 4253447028893561785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_116
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 61
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f71fa373d1f415d0800000000000000
+      internalID: -3092581153615439881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_117
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 65
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a3143c45c78e40800000000000000
+      internalID: 5658708387896207249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_118
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 58
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f6b72c7a67f0d30800000000000000
+      internalID: 4399865823858749324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_119
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 63
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ede4d6ca08bff0800000000000000
+      internalID: -20254349231004404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_120
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b8b3a52c5a8a280800000000000000
+      internalID: -9031786798535439512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_121
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 57
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97820fa240bdd5780800000000000000
+      internalID: -8692550894808455047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_122
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 53
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c686a79450bee0b0800000000000000
+      internalID: -5697422601209084216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_123
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 67
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30580f41a8d5ac200800000000000000
+      internalID: 201075981009585411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_124
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 49
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc14e2780001ec0800000000000000
+      internalID: -3598375521672377438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_125
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638e2e954915f470800000000000000
+      internalID: 8427670064491037541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6db0ee15d8e6160800000000000000
+      internalID: 7020704252142802663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_127
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 17
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0fab4910f368e50800000000000000
+      internalID: 6811200762467250424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_128
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9be601a7d60b6b0800000000000000
+      internalID: -5282601991876462082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_129
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 12
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a74538b7514a10800000000000000
+      internalID: 1891889767151804825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_130
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 46
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1da0b8019cfdfbf0800000000000000
+      internalID: -288797101235589858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_131
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772cccb163b5f8e00800000000000000
+      internalID: 1049157526153380471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_132
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 31
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e327cccfdf37a00800000000000000
+      internalID: 753224824904629816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_133
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29c5c83b0a41c20800000000000000
+      internalID: 3176340330217509572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_134
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a188cdacf6cb50800000000000000
+      internalID: 6613250926163633414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_135
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e79d6f4f044ae0800000000000000
+      internalID: -1566109936602585302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_136
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee6fc96943a0210800000000000000
+      internalID: 1299909263932976764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_137
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 49
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d538b389ff6ed0800000000000000
+      internalID: -2418440130748099790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_138
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321c21af098e4130800000000000000
+      internalID: 3552927856263434814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_139
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ac10fcbdfd0ee70800000000000000
+      internalID: 9142553378725939780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_140
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6686d0018bfce820800000000000000
+      internalID: 2949008387504244333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_141
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 45
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011b1f2c254f5220800000000000000
+      internalID: 2476774376148242688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 35
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e58ee1b59255c0800000000000000
+      internalID: -4228152508703971773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_143
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec726ba59770a9f0800000000000000
+      internalID: -459235677282599702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_144
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeadd85e1ef14ae0800000000000000
+      internalID: -1566691789054824726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_145
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 31
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206dc803c1d67e160800000000000000
+      internalID: 7054727309140219394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_146
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566d324a944dda60800000000000000
+      internalID: 7700386367200388690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_147
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6086821e41a4e1e0800000000000000
+      internalID: -2169431763795410836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_148
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a16a203252459e0800000000000000
+      internalID: -1633639932530124130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_149
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36362ffbca4781030800000000000000
+      internalID: 3465648198565127011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_150
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 33
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166a3dca3695872a0800000000000000
+      internalID: -6739538557723761055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_151
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 35
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0b75734572ac40800000000000000
+      internalID: 5522105025703906290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_152
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 25
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cf66bb8f0f76bc0800000000000000
+      internalID: -3789795610322338784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_153
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 18
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b4ec17adc976e70800000000000000
+      internalID: 9108421233406266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_154
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 27
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855f64b3db395e30800000000000000
+      internalID: 4492687883730113935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_155
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 17
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61da5366e190de00800000000000000
+      internalID: 1067513530382209389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_156
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 35
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600b959be269eb10800000000000000
+      internalID: 2011247472564437097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_157
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78589cba15efef20800000000000000
+      internalID: 3454231342212470910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_158
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4894af34606c60800000000000000
+      internalID: 7809351978367602611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_159
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 23
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1630e2e836d555fc0800000000000000
+      internalID: -3506794052669537439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_160
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d854885ee116230800000000000000
+      internalID: 3630216745819934044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_161
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ec62fc9ea52c40800000000000000
+      internalID: 5486983710126171306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terreno_162
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72664a94d2df2c90800000000000000
+      internalID: -7192298269324189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      terreno_0: -9062645732463532917
+      terreno_1: -795833419704630021
+      terreno_10: -2858950906429418449
+      terreno_100: 8074799364763277661
+      terreno_101: 6948582723204661528
+      terreno_102: -7518018785148665886
+      terreno_103: 1596054925441345735
+      terreno_104: 3954943494704694024
+      terreno_105: 6625157442485142184
+      terreno_106: -2019125599853434549
+      terreno_107: 7752607823248576910
+      terreno_108: 8700345843065165802
+      terreno_109: -4479520343465567456
+      terreno_11: -8603267919500695643
+      terreno_110: -5366278901657972422
+      terreno_111: -8975996885423491465
+      terreno_112: -2431683186186961528
+      terreno_113: -4729970219957880113
+      terreno_114: -4253398891126211258
+      terreno_115: 4253447028893561785
+      terreno_116: -3092581153615439881
+      terreno_117: 5658708387896207249
+      terreno_118: 4399865823858749324
+      terreno_119: -20254349231004404
+      terreno_12: 6960623219756657929
+      terreno_120: -9031786798535439512
+      terreno_121: -8692550894808455047
+      terreno_122: -5697422601209084216
+      terreno_123: 201075981009585411
+      terreno_124: -3598375521672377438
+      terreno_125: 8427670064491037541
+      terreno_126: 7020704252142802663
+      terreno_127: 6811200762467250424
+      terreno_128: -5282601991876462082
+      terreno_129: 1891889767151804825
+      terreno_13: -6139679954858310898
+      terreno_130: -288797101235589858
+      terreno_131: 1049157526153380471
+      terreno_132: 753224824904629816
+      terreno_133: 3176340330217509572
+      terreno_134: 6613250926163633414
+      terreno_135: -1566109936602585302
+      terreno_136: 1299909263932976764
+      terreno_137: -2418440130748099790
+      terreno_138: 3552927856263434814
+      terreno_139: 9142553378725939780
+      terreno_14: 2347799630693760948
+      terreno_140: 2949008387504244333
+      terreno_141: 2476774376148242688
+      terreno_142: -4228152508703971773
+      terreno_143: -459235677282599702
+      terreno_144: -1566691789054824726
+      terreno_145: 7054727309140219394
+      terreno_146: 7700386367200388690
+      terreno_147: -2169431763795410836
+      terreno_148: -1633639932530124130
+      terreno_149: 3465648198565127011
+      terreno_15: 8866564762565032593
+      terreno_150: -6739538557723761055
+      terreno_151: 5522105025703906290
+      terreno_152: -3789795610322338784
+      terreno_153: 9108421233406266148
+      terreno_154: 4492687883730113935
+      terreno_155: 1067513530382209389
+      terreno_156: 2011247472564437097
+      terreno_157: 3454231342212470910
+      terreno_158: 7809351978367602611
+      terreno_159: -3506794052669537439
+      terreno_16: -3727713518267693519
+      terreno_160: 3630216745819934044
+      terreno_161: 5486983710126171306
+      terreno_162: -7192298269324189060
+      terreno_17: 7485807192008429217
+      terreno_18: -1360096175782842100
+      terreno_19: 6635489346243854667
+      terreno_2: -5641132315740603062
+      terreno_20: -5310235513581125779
+      terreno_21: -6123916608396097939
+      terreno_22: 712181260705077561
+      terreno_23: -5984701004153107634
+      terreno_24: -892119920783742747
+      terreno_25: 535233694365024392
+      terreno_26: -5924195367746481229
+      terreno_27: 6149676077266916132
+      terreno_28: -6543089857313617061
+      terreno_29: -8399420413802695653
+      terreno_3: -505394841174732390
+      terreno_30: -7187580243093013832
+      terreno_31: -3552770891252557743
+      terreno_32: -6164968722362631574
+      terreno_33: 2457894922427452683
+      terreno_34: -1168967863811462718
+      terreno_35: -5136174269887975255
+      terreno_36: 6114264597637884332
+      terreno_37: 6429385269892450195
+      terreno_38: 8701585411503196493
+      terreno_39: 8508493443460795723
+      terreno_4: 3622257383165668746
+      terreno_40: -7735082265264291202
+      terreno_41: -1062628326675216004
+      terreno_42: -6732461887589576164
+      terreno_43: 4793838159411038429
+      terreno_44: -3806405359757617536
+      terreno_45: 9062741170349554168
+      terreno_46: -623974990206075435
+      terreno_47: 1685226905396719788
+      terreno_48: -9119559644369912161
+      terreno_49: 8150408065402960626
+      terreno_5: -1199875311260085125
+      terreno_50: 4129548708868287685
+      terreno_51: -8247278452606417920
+      terreno_52: -4426036283864479144
+      terreno_53: -7245806605350705381
+      terreno_54: -690627126320802342
+      terreno_55: 6458755613878773786
+      terreno_56: 3022636763154811409
+      terreno_57: 2612770103118712209
+      terreno_58: 8760185991753674914
+      terreno_59: 3033111221840894361
+      terreno_6: 1524270888787999010
+      terreno_60: 6465749891528264117
+      terreno_61: -4244237299865358077
+      terreno_62: 6451423090721923141
+      terreno_63: 3992041462058437450
+      terreno_64: -3247502196648098468
+      terreno_65: -2014263200406291382
+      terreno_66: 8946747209436038973
+      terreno_67: 6827105928480030959
+      terreno_68: -9022393551652008182
+      terreno_69: 6551033397654019690
+      terreno_7: -5103646078994519699
+      terreno_70: -6414318630700319792
+      terreno_71: -3901811065819817711
+      terreno_72: 8571133428455022075
+      terreno_73: 6808759624302384584
+      terreno_74: -976901531800337785
+      terreno_75: -1717504277287017006
+      terreno_76: 1020221893055119336
+      terreno_77: -44115140141491480
+      terreno_78: 9116452930653685441
+      terreno_79: 2944911909031876718
+      terreno_8: -203594573808071180
+      terreno_80: 8262780858828376610
+      terreno_81: -4310228303007909413
+      terreno_82: 6390885011735656764
+      terreno_83: 4607505914695110299
+      terreno_84: 6399957205388256643
+      terreno_85: 1813581698364533472
+      terreno_86: -1264563214401426368
+      terreno_87: -812584056280116653
+      terreno_88: -8425405230069248687
+      terreno_89: -350192456475681814
+      terreno_9: -6939575462653561557
+      terreno_90: -731870260952294405
+      terreno_91: -1180353239930186947
+      terreno_92: 6711306237661669711
+      terreno_93: 8192411941480861406
+      terreno_94: 4921372231677559026
+      terreno_95: 4137419774372936399
+      terreno_96: -3505630636501920105
+      terreno_97: 6863693012269182482
+      terreno_98: -8681051890678427992
+      terreno_99: 697802289176846665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
