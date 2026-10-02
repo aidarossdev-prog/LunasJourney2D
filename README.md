@@ -6,27 +6,26 @@ El proyecto presenta una aventura de fantasía ambientada en un bosque encantado
 
 ## 🎮 Estado actual del proyecto
 
-Actualmente se encuentra implementada la estructura inicial del videojuego:
+## ✨ Características actuales
 
-- Escena principal 2D.
-- Escenario compuesto por fondo y terreno independiente.
-- Personaje principal: Luna.
-- Animación `Idle`.
-- Animación `Walk`.
-- Cambio de estados de animación mediante eventos del teclado.
-- Movimiento horizontal del personaje.
-- Cambio de dirección del sprite.
-- Colisiones con el terreno.
-- Límites laterales del escenario.
+- Escenario 2D con ambientación de bosque encantado.
+- Personaje principal con animaciones Idle y Walk.
+- Movimiento horizontal mediante teclado.
+- Cambio automático de orientación del personaje.
+- Sistema de colisiones con el terreno y límites laterales.
+- Prefab de proyectil mágico reutilizable.
+- Punto de disparo FirePoint alineado con el personaje.
+- Sistema de disparo mediante teclado.
+- El proyectil se lanza automáticamente en la dirección hacia la que mira Luna.
+- Destrucción automática de los proyectiles después de unos segundos.
 
-## 🕹️ Controles
+## 🎮 Controles
 
-| Acción | Teclas |
+| Acción | Control |
 |---|---|
-| Mover a la izquierda | `A` / `←` |
-| Mover a la derecha | `D` / `→` |
-
-Al presionar una tecla de movimiento, Luna cambia automáticamente del estado `Idle` al estado `Walk`. Al dejar de desplazarse, regresa al estado `Idle`.
+| Mover a Luna hacia la izquierda | A / Flecha izquierda |
+| Mover a Luna hacia la derecha | D / Flecha derecha |
+| Disparo mágico | Barra espaciadora (Space) |
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -42,14 +41,20 @@ Al presionar una tecla de movimiento, Luna cambia automáticamente del estado `I
 
 ## 📁 Estructura principal
 
-Assets/
-├── Animations/
-├── Scenes/
-├── Scripts/
-└── Sprites/
-    ├── Background/
-    ├── Character/
-    └── Environment/
+Assets
+├── Animations
+├── Prefabs
+│   └── MagicProjectile
+├── Scenes
+├── Scripts
+│   ├── LunaMovement.cs
+│   ├── LunaShooting.cs
+│   └── Projectile.cs
+└── Sprites
+    ├── Character
+    ├── Background
+    ├── Environment
+    └── Projectiles
 
 ## ✨ Concepto visual
 
