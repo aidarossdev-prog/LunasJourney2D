@@ -9,15 +9,20 @@ El proyecto presenta una aventura de fantasía ambientada en un bosque encantado
 ## ✨ Características actuales
 
 - Escenario 2D con ambientación de bosque encantado.
+- Escenario ampliado para permitir mayor desplazamiento del personaje.
 - Personaje principal con animaciones Idle y Walk.
 - Movimiento horizontal mediante teclado.
 - Cambio automático de orientación del personaje.
-- Sistema de colisiones con el terreno y límites laterales.
-- Prefab de proyectil mágico reutilizable.
-- Punto de disparo FirePoint alineado con el personaje.
-- Sistema de disparo mediante teclado.
-- El proyectil se lanza automáticamente en la dirección hacia la que mira Luna.
-- Destrucción automática de los proyectiles después de unos segundos.
+- Sistema de físicas mediante Rigidbody2D y Collider2D.
+- Colisiones con el terreno y límites laterales.
+- Mecánica de salto con detección de suelo.
+- Control de salto para evitar saltos consecutivos mientras Luna está en el aire.
+- Prefab reutilizable para el proyectil mágico.
+- FirePoint alineado con el personaje para generar los proyectiles.
+- Sistema de disparo mágico según la dirección de Luna.
+- Cámara 2D con proyección Orthographic.
+- Seguimiento horizontal y fluido del personaje.
+- Límites de cámara para evitar mostrar áreas fuera del escenario.
 
 ## 🎮 Controles
 
@@ -25,7 +30,19 @@ El proyecto presenta una aventura de fantasía ambientada en un bosque encantado
 |---|---|
 | Mover a Luna hacia la izquierda | A / Flecha izquierda |
 | Mover a Luna hacia la derecha | D / Flecha derecha |
+| Saltar | W / Flecha arriba |
 | Disparo mágico | Barra espaciadora (Space) |
+
+## 🎥 Configuración de cámara
+
+Luna's Journey utiliza una cámara 2D con proyección Orthographic, configurada para mantener una vista proporcional del escenario.
+
+La cámara realiza un seguimiento horizontal y fluido de Luna durante su desplazamiento, mientras mantiene fija su posición vertical. También cuenta con límites laterales para evitar mostrar áreas fuera del escenario.
+
+- Proyección: Orthographic
+- Orthographic Size: 4.705
+- Seguimiento: horizontal y suavizado
+- Límites horizontales: -16.72 / 16.72
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -46,13 +63,15 @@ Assets
 ├── Prefabs
 │   └── MagicProjectile
 ├── Scenes
+│   └── MainScene
 ├── Scripts
+│   ├── CameraFollow.cs
 │   ├── LunaMovement.cs
 │   ├── LunaShooting.cs
 │   └── Projectile.cs
 └── Sprites
-    ├── Character
     ├── Background
+    ├── Character
     ├── Environment
     └── Projectiles
 
