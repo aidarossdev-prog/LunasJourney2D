@@ -806,8 +806,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1ba24fbb1748b4c92633ed24777278, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LunaMovement
-  moveSpeed: 4
-  jumpForce: 7
+  moveSpeed: 3
+  jumpForce: 6
 --- !u!70 &560103034
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -886,6 +886,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LunaShooting
   projectilePrefab: {fileID: 5226160514659426236, guid: 532ac359a00a4c54ca024d50bed2003d, type: 3}
   firePoint: {fileID: 790032643}
+  fireInterval: 0.35
+  shootPreparationTime: 0.375
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0

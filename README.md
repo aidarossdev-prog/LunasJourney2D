@@ -23,15 +23,23 @@ El proyecto presenta una aventura de fantasía ambientada en un bosque encantado
 - Cámara 2D con proyección Orthographic.
 - Seguimiento horizontal y fluido del personaje.
 - Límites de cámara para evitar mostrar áreas fuera del escenario.
+- Animaciones del personaje: Idle, Walk, ShootStart y ShootLoop.
+- Sistema de disparo mágico continuo mediante la barra espaciadora.
+- Animación de preparación del disparo con movimiento del brazo.
+- Bucle de animación que mantiene el brazo levantado mientras se dispara.
+- Generación de proyectiles mágicos a intervalos configurables.
+- Disparo hacia izquierda y derecha según la orientación del personaje.
+- Posibilidad de desplazarse y disparar simultáneamente.
+- Transiciones entre animaciones controladas mediante Animator.
 
 ## 🎮 Controles
 
 | Acción | Control |
 |---|---|
-| Mover a Luna hacia la izquierda | A / Flecha izquierda |
-| Mover a Luna hacia la derecha | D / Flecha derecha |
-| Saltar | W / Flecha arriba |
-| Disparo mágico | Barra espaciadora (Space) |
+| Mover a Luna | A/D o flechas izquierda/derecha |
+| Saltar | W o flecha arriba |
+| Disparar continuamente | Mantener barra espaciadora (Space) |
+| Caminar y disparar | A/D + Space |
 
 ## 🎥 Configuración de cámara
 

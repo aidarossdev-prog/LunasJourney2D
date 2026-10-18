@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 2616e9a405167e34a89610943eb36b3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7399249528409106930
+    second: LunaShootHold_0
+  - first:
+      213: -1412116622786839948
+    second: LunaShootHold_1
+  - first:
+      213: -8128687046170594847
+    second: LunaShootHold_2
+  - first:
+      213: 8615084886071656424
+    second: LunaShootHold_3
+  - first:
+      213: 4512808993289362444
+    second: LunaShootHold_4
+  - first:
+      213: 8337860962404113967
+    second: LunaShootHold_5
+  - first:
+      213: -4863835172882522407
+    second: LunaShootHold_6
+  - first:
+      213: 5613508329299285578
+    second: LunaShootHold_7
+  - first:
+      213: 3669211923719963332
+    second: LunaShootHold_8
+  - first:
+      213: 3155441044596451017
+    second: LunaShootHold_9
+  - first:
+      213: -1086432140909649797
+    second: LunaShootHold_10
+  - first:
+      213: 3505114057577989261
+    second: LunaShootHold_11
+  - first:
+      213: 6434452778797972939
+    second: LunaShootHold_12
+  - first:
+      213: 3300870882078935028
+    second: LunaShootHold_13
+  - first:
+      213: -3187716613040413329
+    second: LunaShootHold_14
+  - first:
+      213: 4835922518628808007
+    second: LunaShootHold_15
+  - first:
+      213: -8072547714796248270
+    second: LunaShootHold_16
+  - first:
+      213: 8771541147472954998
+    second: LunaShootHold_17
+  - first:
+      213: -7790190048964607910
+    second: LunaShootHold_18
+  - first:
+      213: -2736208586182860531
+    second: LunaShootHold_19
+  - first:
+      213: 4100101504227312389
+    second: LunaShootHold_20
+  - first:
+      213: -659399323653343413
+    second: LunaShootHold_21
+  - first:
+      213: 3034104058650037432
+    second: LunaShootHold_22
+  - first:
+      213: 1823727442908228797
+    second: LunaShootHold_23
+  - first:
+      213: -6625907779486387461
+    second: LunaShootHold_24
+  - first:
+      213: 2005824453716624724
+    second: LunaShootHold_25
+  - first:
+      213: 7087300254307317627
+    second: LunaShootHold_26
+  - first:
+      213: 1193663687170302058
+    second: LunaShootHold_27
+  - first:
+      213: 4807981911235738044
+    second: LunaShootHold_28
+  - first:
+      213: -1903580490777677312
+    second: LunaShootHold_29
+  - first:
+      213: 3504467442420792897
+    second: LunaShootHold_30
+  - first:
+      213: -8251602494290956043
+    second: LunaShootHold_31
+  - first:
+      213: -1787803803516854687
+    second: LunaShootHold_32
+  - first:
+      213: -2711250774005719855
+    second: LunaShootHold_33
+  - first:
+      213: -5393080415983652376
+    second: LunaShootHold_34
+  - first:
+      213: 5939118352628740425
+    second: LunaShootHold_35
+  - first:
+      213: -7790517453911127570
+    second: LunaShootHold_36
+  - first:
+      213: -8607351905948475883
+    second: LunaShootHold_37
+  - first:
+      213: -6989753009328811835
+    second: LunaShootHold_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LunaShootHold_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d2beb1c5905990800000000000000
+      internalID: -7399249528409106930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunaShootHold_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abd5dc967276ce0800000000000000
+      internalID: -1412116622786839948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunaShootHold_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1beaaf23a113f80800000000000000
+      internalID: -8128687046170594847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunaShootHold_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef33282f0eee8770800000000000000
+      internalID: 8615084886071656424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunaShootHold_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c53389ed7b0ae30800000000000000
+      internalID: 4512808993289362444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunaShootHold_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e91b29e5806b370800000000000000
+      internalID: 8337860962404113967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2fb493aefef5ca4f89a2e1faf320bea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":384.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LunaShootHold_0: -7399249528409106930
+      LunaShootHold_1: -1412116622786839948
+      LunaShootHold_2: -8128687046170594847
+      LunaShootHold_3: 8615084886071656424
+      LunaShootHold_4: 4512808993289362444
+      LunaShootHold_5: 8337860962404113967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
