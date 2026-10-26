@@ -12,6 +12,7 @@ public class LunaMovement : MonoBehaviour
     private float horizontalInput;
     private bool jumpRequested;
     private bool isGrounded;
+    private int groundContacts = 0;
 
 
     private void Awake()
@@ -81,11 +82,12 @@ public class LunaMovement : MonoBehaviour
     }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+ private void OnCollisionEnter2D(Collision2D collision)
 {
     if (collision.gameObject.CompareTag("Ground"))
     {
-        isGrounded = true;
+        groundContacts++;
+        isGrounded = groundContacts > 0;
     }
 }
 
@@ -93,7 +95,9 @@ private void OnCollisionExit2D(Collision2D collision)
 {
     if (collision.gameObject.CompareTag("Ground"))
     {
-        isGrounded = false;
+        groundContacts = Mathf.Max(0, groundContacts - 1);
+        isGrounded = groundContacts > 0;
     }
 }
+
 }

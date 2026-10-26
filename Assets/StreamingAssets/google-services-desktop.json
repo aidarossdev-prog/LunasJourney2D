@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413333063626",
+    "project_id": "lunasjourney2d",
+    "storage_bucket": "lunasjourney2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413333063626:android:a9c280827c6a53ff36f133",
+        "android_client_info": {
+          "package_name": "com.ross.lunasjourney2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSlX0x_8j4m14ZJYWFUQ2Gdronh2e-gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 4625858e5932685409a1ef8a56375cbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3709120408374731437
+    second: Lunas_Journey_Portal_Magico_3x2_0
+  - first:
+      213: 4627131558505867604
+    second: Lunas_Journey_Portal_Magico_3x2_1
+  - first:
+      213: -3528375156568576706
+    second: Lunas_Journey_Portal_Magico_3x2_2
+  - first:
+      213: -6959723036280976779
+    second: Lunas_Journey_Portal_Magico_3x2_3
+  - first:
+      213: 1847903576539225795
+    second: Lunas_Journey_Portal_Magico_3x2_4
+  - first:
+      213: -5398081673709772399
+    second: Lunas_Journey_Portal_Magico_3x2_5
+  - first:
+      213: -6588781612575290223
+    second: Lunas_Journey_Portal_Magico_3x2_6
+  - first:
+      213: 9182739746741478028
+    second: Lunas_Journey_Portal_Magico_3x2_7
+  - first:
+      213: -6371102627796176333
+    second: Lunas_Journey_Portal_Magico_3x2_8
+  - first:
+      213: 1856546769652497739
+    second: Lunas_Journey_Portal_Magico_3x2_9
+  - first:
+      213: 1394888980433379206
+    second: Lunas_Journey_Portal_Magico_3x2_10
+  - first:
+      213: -1300882267470992615
+    second: Lunas_Journey_Portal_Magico_3x2_11
+  - first:
+      213: 1412937570356104758
+    second: Lunas_Journey_Portal_Magico_3x2_12
+  - first:
+      213: -603336649858657110
+    second: Lunas_Journey_Portal_Magico_3x2_13
+  - first:
+      213: -5048060817164531965
+    second: Lunas_Journey_Portal_Magico_3x2_14
+  - first:
+      213: 4296980298694900869
+    second: Lunas_Journey_Portal_Magico_3x2_15
+  - first:
+      213: 56818978373221990
+    second: Lunas_Journey_Portal_Magico_3x2_16
+  - first:
+      213: -2506670970710292079
+    second: Lunas_Journey_Portal_Magico_3x2_17
+  - first:
+      213: 6033228513566999190
+    second: Lunas_Journey_Portal_Magico_3x2_18
+  - first:
+      213: 7767484508219510535
+    second: Lunas_Journey_Portal_Magico_3x2_19
+  - first:
+      213: -7407364446742100266
+    second: Lunas_Journey_Portal_Magico_3x2_20
+  - first:
+      213: -1210467806697838273
+    second: Lunas_Journey_Portal_Magico_3x2_21
+  - first:
+      213: -6777153618554645606
+    second: Lunas_Journey_Portal_Magico_3x2_22
+  - first:
+      213: -9207765465585889152
+    second: Lunas_Journey_Portal_Magico_3x2_23
+  - first:
+      213: -7230166961861337299
+    second: Lunas_Journey_Portal_Magico_3x2_24
+  - first:
+      213: 929851758733948478
+    second: Lunas_Journey_Portal_Magico_3x2_25
+  - first:
+      213: 4559773696001677537
+    second: Lunas_Journey_Portal_Magico_3x2_26
+  - first:
+      213: -5427469725851062406
+    second: Lunas_Journey_Portal_Magico_3x2_27
+  - first:
+      213: -7258646171824156634
+    second: Lunas_Journey_Portal_Magico_3x2_28
+  - first:
+      213: 4438296702634835196
+    second: Lunas_Journey_Portal_Magico_3x2_29
+  - first:
+      213: 743793358317594131
+    second: Lunas_Journey_Portal_Magico_3x2_30
+  - first:
+      213: -1038051482993721320
+    second: Lunas_Journey_Portal_Magico_3x2_31
+  - first:
+      213: 1374076501726323404
+    second: Lunas_Journey_Portal_Magico_3x2_32
+  - first:
+      213: 8975522698269028173
+    second: Lunas_Journey_Portal_Magico_3x2_33
+  - first:
+      213: -3454101731629146543
+    second: Lunas_Journey_Portal_Magico_3x2_34
+  - first:
+      213: -8819998842109416560
+    second: Lunas_Journey_Portal_Magico_3x2_35
+  - first:
+      213: -7283608170489502780
+    second: Lunas_Journey_Portal_Magico_3x2_36
+  - first:
+      213: -6945650848805953265
+    second: Lunas_Journey_Portal_Magico_3x2_37
+  - first:
+      213: -699403652148591576
+    second: Lunas_Journey_Portal_Magico_3x2_38
+  - first:
+      213: 8406631899079573976
+    second: Lunas_Journey_Portal_Magico_3x2_39
+  - first:
+      213: -7710822723580747135
+    second: Lunas_Journey_Portal_Magico_3x2_40
+  - first:
+      213: -1934399924455865697
+    second: Lunas_Journey_Portal_Magico_3x2_41
+  - first:
+      213: -7404958372749883426
+    second: Lunas_Journey_Portal_Magico_3x2_42
+  - first:
+      213: 7836023808259116033
+    second: Lunas_Journey_Portal_Magico_3x2_43
+  - first:
+      213: -613116223899689597
+    second: Lunas_Journey_Portal_Magico_3x2_44
+  - first:
+      213: 7875433559004208891
+    second: Lunas_Journey_Portal_Magico_3x2_45
+  - first:
+      213: 6046805366965330519
+    second: Lunas_Journey_Portal_Magico_3x2_46
+  - first:
+      213: 7475221302395372692
+    second: Lunas_Journey_Portal_Magico_3x2_47
+  - first:
+      213: -4680251453914305881
+    second: Lunas_Journey_Portal_Magico_3x2_48
+  - first:
+      213: 4707793158908093966
+    second: Lunas_Journey_Portal_Magico_3x2_49
+  - first:
+      213: 4326300391668184367
+    second: Lunas_Journey_Portal_Magico_3x2_50
+  - first:
+      213: 2749232671569198107
+    second: Lunas_Journey_Portal_Magico_3x2_51
+  - first:
+      213: -4774837257872787213
+    second: Lunas_Journey_Portal_Magico_3x2_52
+  - first:
+      213: 5646192046343204451
+    second: Lunas_Journey_Portal_Magico_3x2_53
+  - first:
+      213: 621699204751230234
+    second: Lunas_Journey_Portal_Magico_3x2_54
+  - first:
+      213: -700992192492899435
+    second: Lunas_Journey_Portal_Magico_3x2_55
+  - first:
+      213: 853156265792935273
+    second: Lunas_Journey_Portal_Magico_3x2_56
+  - first:
+      213: 6336321163208317870
+    second: Lunas_Journey_Portal_Magico_3x2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e3521c51797330800000000000000
+      internalID: 3709120408374731437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459edb903afd63040800000000000000
+      internalID: 4627131558505867604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3daa6e3d71b80fc0800000000000000
+      internalID: -3528375156568576706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8e5fc5c81a6f90800000000000000
+      internalID: -6959723036280976779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce5bc2238215a910800000000000000
+      internalID: 1847903576539225795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunas_Journey_Portal_Magico_3x2_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191abf961592615b0800000000000000
+      internalID: -5398081673709772399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f541d02be4173244974c367bb984279
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":384.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Lunas_Journey_Portal_Magico_3x2_0: 3709120408374731437
+      Lunas_Journey_Portal_Magico_3x2_1: 4627131558505867604
+      Lunas_Journey_Portal_Magico_3x2_2: -3528375156568576706
+      Lunas_Journey_Portal_Magico_3x2_3: -6959723036280976779
+      Lunas_Journey_Portal_Magico_3x2_4: 1847903576539225795
+      Lunas_Journey_Portal_Magico_3x2_5: -5398081673709772399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
